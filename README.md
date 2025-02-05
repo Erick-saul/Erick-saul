@@ -41,4 +41,5 @@ Soy un profesional dedicado a **transformar datos en insights valiosos** para im
 ## 🌐 **Contactos**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/erick-mendoza-gomez/)  
 - 📬 **Email**: erickmego@gmail.com  
-- 🚀 [GitHub](https://github.com/Erick-saul)  
+- 🚀 [GitHub](https://github.com/Erick-saul)
+- 📊 [getonboard](https://www.getonbrd.com/p/erick-mendoza-eb9e) 
